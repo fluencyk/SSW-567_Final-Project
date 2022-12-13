@@ -1,0 +1,7 @@
+#,Response Time Scales,Decoding Number of Lines,Encoding Number of Lines,Decoding without Tests,Decoding with Unit Tests,Encoding without Tests,Encoding with Unit Tests
+01,Seconds in 100 units,0.0005,0.0005,0.0020,0.0531,0.0181,0.0762
+02,Seconds in 500 units,0.0008,0.0009,0.0098,0.2373,0.0867,0.4087
+03,Seconds in 1000 units,0.0011,0.0016,0.0194,0.4506,0.1775,0.7562
+04,Seconds in 5000 units,0.0037,0.0079,0.0989,2.2919,0.8628,3.7864
+05,Seconds in 10000 units,0.0068,0.0135,0.1855,4.5707,1.7212,7.7950
+06,Seconds in specific units,0.0933,0.0134
