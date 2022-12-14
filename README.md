@@ -5,7 +5,7 @@ Akash Adarsh, Carmen Couzyn, Yujun Kong
 Yujun Kong
 ### Part 2 - Unit Testing
 Carmen Couzyn
-### Part 3 - Perf Testing
+### Part 3 - Performance Testing
 Yujun Kong
 ### Part 4 - Test Planning
 Akash Adarsh
