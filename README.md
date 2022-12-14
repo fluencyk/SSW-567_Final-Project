@@ -1,6 +1,6 @@
 # SSW-567_Final-Project
 ### Status of Achievements of Final Project
-[Gant Status of Google Sheets](https://docs.google.com/spreadsheets/d/1QmFJNFTzA-_7JS6DMq51R4ixsHSWAQftikkbZDFpPvQ/edit#gid=575959079)
+[Gant Status of Google Sheets](https://docs.google.com/spreadsheets/d/1QmFJNFTzA-_7JS6DMq51R4ixsHSWAQftikkbZDFpPvQ/edit#gid=575959079 url?_blank)
 #### Part 0 - Kickoff & Planning
 Akash Adarsh, Carmen Couzyn, Yujun Kong
 #### Part 1 - Requirement Testing
