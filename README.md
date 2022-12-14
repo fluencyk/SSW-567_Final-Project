@@ -25,7 +25,7 @@ Yujun Kong
 Carmen Couzyn
 #### Part 3 - Performance Testing
 Yujun Kong
-### Part 4 - Test Planning
+#### Part 4 - Test Planning
 Akash Adarsh
 ## Build and Test Badge:
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/fluencyk/Stevens/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/fluencyk/Stevens/tree/main)
