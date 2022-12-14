@@ -14,7 +14,6 @@ Yujun Kong
 ## Project Leader and Core Programmer for Main Features and Functions Implementation:
 Carmen Couzyn
 
-
 [Main Program Source Scripts Repository Gateway (Please right click to see in new browser window)](https://github.com/couzyn/SSW_567)
 ## Responsibilities:
 #### Part 0 - Kickoff & Planning
@@ -30,4 +29,4 @@ Akash Adarsh
 ## Build and Test Badge:
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/fluencyk/Stevens/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/fluencyk/Stevens/tree/main)
 ## Latest Updated:
-Dec 13, 2022 @authors: Akash Adarsh, Carmen Couzyn, Yujun Kong
+Dec 14, 2022 @authors: Akash Adarsh, Carmen Couzyn, Yujun Kong
