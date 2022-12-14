@@ -1,7 +1,7 @@
 # SSW-567_Final-Project
 ### Part 0 - Kickoff & Planning
 Akash Adarsh, Carmen Couzyn, Yujun Kong
-### Part 1 - RequirementTesting
+### Part 1 - Requirement Testing
 Yujun Kong
 ### Part 2 - Unit Testing
 Carmen Couzyn
