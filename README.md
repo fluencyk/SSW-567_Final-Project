@@ -15,7 +15,7 @@ Yujun Kong
 Carmen Couzyn
 
 
-[Main Program Source Scripts repository (Please right click to see in new browser window)](https://github.com/couzyn/SSW_567)
+[Main Program Source Scripts Repository Gateway (Please right click to see in new browser window)](https://github.com/couzyn/SSW_567)
 ## Responsibilities:
 #### Part 0 - Kickoff & Planning
 Akash Adarsh, Carmen Couzyn, Yujun Kong
