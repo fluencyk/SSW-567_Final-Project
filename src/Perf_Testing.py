@@ -2,7 +2,7 @@
 """
 @author: yujun kong
 implemented: Dec. 12, 2022
-This script creates the a testing to review the performance of the main program and unit tests
+This script creates a testing to review the performance of the main program and unit tests
 """
 
 import sys, json, time, csv
