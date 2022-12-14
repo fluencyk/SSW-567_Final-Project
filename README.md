@@ -1,6 +1,12 @@
 # SSW-567_Final-Project
-## Team: Overseas Group
-## Team Members: Akash Adarsh, Carmen Couzyn, Yujun Kong
+## Team:
+Overseas Group
+## Team Members:
+Akash Adarsh
+Carmen Couzyn
+Yujun Kong
+
+
 ### Status of Achievements of Final Project
 [Gant Status of Google Sheets (Please right click this url to see the gant status sheet in new browser window!)](https://docs.google.com/spreadsheets/d/1QmFJNFTzA-_7JS6DMq51R4ixsHSWAQftikkbZDFpPvQ/edit#gid=575959079)
 #### Part 0 - Kickoff & Planning
