@@ -15,10 +15,10 @@ jobs:
           name: "building"
           working_directory: ~/project/src
           command: |
+            pip install matplotlib
             python Perf_Testing.py
             
 workflows:
   build:
     jobs:    
       - build_hw_final_project_perf_testing
-      
