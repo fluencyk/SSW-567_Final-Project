@@ -1,13 +1,25 @@
 version: 2.1
-  
 executors:
   python-program-executor:
     docker:
       - image: "circleci/python:3.9.0"
+      
+# Final Project of Course SSW-567_A
 
 jobs:
-  # Performance Testing Scripts - Python, Final Project of Course SSW-567_A
-  build_hw_final_project_perf_testing:
+  # Main Program - Carmen Couzyn
+  build_main_program:
+    executor: python-program-executor
+    steps:
+      - checkout
+      - run:
+          name: "building"
+          working_directory: ~/project/src
+          command: |
+            MRTD.py
+            
+  # Performance Testing - Yujun Kong
+  build_perf_testing:
     executor: python-program-executor
     steps:
       - checkout
@@ -20,5 +32,6 @@ jobs:
             
 workflows:
   build:
-    jobs:    
-      - build_hw_final_project_perf_testing
+    jobs:
+      - build_main_program
+      - build_perf_testing
