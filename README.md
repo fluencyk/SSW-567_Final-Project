@@ -28,5 +28,6 @@ Yujun Kong
 Akash Adarsh
 ## Build and Test Badge:
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/fluencyk/Stevens/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/fluencyk/Stevens/tree/main)
+Please be ADVISED! The badge is not always successfully synchronized!
 ## Latest Updated:
 Dec 14, 2022 @authors: Akash Adarsh, Carmen Couzyn, Yujun Kong
