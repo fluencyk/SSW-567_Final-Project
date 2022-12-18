@@ -1,0 +1,24 @@
+version: 2.1
+  
+executors:
+  python-program-executor:
+    docker:
+      - image: "circleci/python:3.9.0"
+
+jobs:
+  # Performance Testing Scripts - Python, Final Project of Course SSW-567_A
+  build_hw_final_project_perf_testing:
+    executor: python-program-executor
+    steps:
+      - checkout
+      - run:
+          name: "building"
+          working_directory: ~/project/src
+          command: |
+            pip install matplotlib
+            python Perf_Testing.py
+            
+workflows:
+  build:
+    jobs:    
+      - build_hw_final_project_perf_testing
