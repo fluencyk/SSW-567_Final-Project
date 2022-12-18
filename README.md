@@ -30,6 +30,7 @@ Akash Adarsh
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/fluencyk/Stevens/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/fluencyk/Stevens/tree/main)
 
 Please be ADVISED! The badge is not always successfully synchronized!
+
 Click the badge going to see the build or test details.
 ## Latest Updated:
 Dec 18, 2022 @authors: Akash Adarsh, Carmen Couzyn, Yujun Kong
