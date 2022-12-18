@@ -17,6 +17,15 @@ jobs:
           working_directory: ~/project/src
           command: |
             python MRTD.py
+  test_main_program:
+    executor: python-program-executor
+    steps:
+      - checkout
+      - run:
+          name: "testing"
+          working_directory: ~/project/src
+          command: |
+            python MTTDtest.py
             
   # Performance Testing - Yujun Kong
   build_perf_testing:
@@ -34,4 +43,8 @@ workflows:
   build:
     jobs:
       - build_main_program
+      - test_main_program:
+          requires:
+            - build_main_program
+            
       - build_perf_testing
