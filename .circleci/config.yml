@@ -16,7 +16,7 @@ jobs:
           name: "building"
           working_directory: ~/project/src
           command: |
-            MRTD.py
+            python MRTD.py
             
   # Performance Testing - Yujun Kong
   build_perf_testing:
